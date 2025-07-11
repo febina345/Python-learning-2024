@@ -1,0 +1,9 @@
+if applicant has high income AND good credit
+     Eligible for loan
+     AND: both should be true
+if applicant has high income OR good credit
+         Eligible for loan
+         OR:Atleast one true
+
+if applicant has good credit and doesn't have criminal record
+         Eligible for loan

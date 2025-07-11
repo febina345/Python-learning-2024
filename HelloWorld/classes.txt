@@ -1,0 +1,10 @@
+Numbers,Strings,Booleans,Lists,Dictionaries
+
+Person
+name
+talk(
+
+
+Dice
+-roll()
+-tuple-gives random values
